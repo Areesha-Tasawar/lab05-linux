@@ -1,0 +1,19 @@
+total 72
+drwxr-x--- 12 areesha-tasawar areesha-tasawar 4096 Oct 16 07:09 .
+drwxr-xr-x  3 root            root            4096 Sep 18 14:47 ..
+-rw-------  1 areesha-tasawar areesha-tasawar 1342 Oct 16 06:44 .bash_history
+-rw-r--r--  1 areesha-tasawar areesha-tasawar  220 Feb 13  2026 .bash_logout
+-rw-r--r--  1 areesha-tasawar areesha-tasawar 3771 Feb 13  2026 .bashrc
+drwx------  2 areesha-tasawar areesha-tasawar 4096 Sep 18 14:59 .cache
+-rw-rw-r--  1 areesha-tasawar areesha-tasawar  194 Oct 16 07:06 .gitconfig
+-rw-------  1 areesha-tasawar areesha-tasawar   20 Sep 19 13:30 .lesshst
+drwx------  3 areesha-tasawar areesha-tasawar 4096 Sep 19 11:27 .local
+-rw-r--r--  1 areesha-tasawar areesha-tasawar  807 Feb 13  2026 .profile
+drwx------  3 areesha-tasawar areesha-tasawar 4096 Oct  9 09:55 .ssh
+drwxrwxr-x  3 areesha-tasawar areesha-tasawar 4096 Oct  9 15:52 Assignment01
+drwxrwxr-x  4 areesha-tasawar areesha-tasawar 4096 Oct  9 10:21 CC
+drwxrwxr-x  3 areesha-tasawar areesha-tasawar 4096 Sep 19 13:53 CC_Lab2_Practice
+drwxrwxr-x  3 areesha-tasawar areesha-tasawar 4096 Oct  9 09:57 Gitea
+drwxrwxr-x  5 areesha-tasawar areesha-tasawar 4096 Oct 16 07:11 lab05-linux
+drwxrwxr-x  2 areesha-tasawar areesha-tasawar 4096 Sep 18 15:07 mylab
+drwxrwxr-x  3 areesha-tasawar areesha-tasawar 4096 Oct  9 16:31 portfolio

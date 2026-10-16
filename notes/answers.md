@@ -1,0 +1,1 @@
+/bin is a directory path that commonly links to /usr/bin on modern Ubuntu systems. /usr/bin contains many standard commands and programs, such as ls. /usr/local/bin is used for programs installed locally by the administrator or user. These directories help Linux organize executable programs.
